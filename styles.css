@@ -1,0 +1,47 @@
+body {
+    background-image: url('./Images/background.png');
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    color: white;
+    background-color: rgb(129, 129, 129);
+    padding: 20px;
+}
+
+#navigation {
+    text-align: center;
+    border-collapse: collapse;
+}
+
+.cases {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 4px solid #333;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 1600px;
+    text-align: center;
+}
+
+.cases h1 {
+    margin-bottom: 50px;
+    color: red; 
+    font-size: 36px;
+}
+
+.cases h2 {
+    margin-bottom: 30px;
+    color: black; 
+    font-size: 24px;
+}
+
+.logo {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 2px solid #333;
+    border-radius: 10px;
+    padding: 20px;
+    max-width: 200px;
+    text-align: left;
+}
